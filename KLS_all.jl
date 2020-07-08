@@ -1,7 +1,7 @@
 #%*This program simulates datasets following DGP1 in ACF (2015)*/
 # The original ACF code is written by GAUSS
 # KLS rewrite ACF original code into Stata and Matlab
-# Here, KLS code is rewritten into Julia by Suguru Otani
+# Here, KLS code is rewritten into Julia by Suguru Otani, 200707
 
 # auxiliary function from Matlab
 function linspace(lo::Any,hi::Any,n::Any)
